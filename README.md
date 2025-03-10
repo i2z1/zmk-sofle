@@ -1,5 +1,3 @@
-- [Chinese](README.md)
-- [English](README_EN.md)
 
 # Update List
 
@@ -9,8 +7,7 @@
   1. Modified power supply mode to reduce power consumption.
   2. Fixed the automatic shut-off feature for RGB power supply.
 
-> If your keyboard was updated before October 24, please update to the latest firmware.
-> 
+
 ---
 
 # Sofle Keymap
